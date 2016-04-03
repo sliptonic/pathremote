@@ -1,0 +1,6 @@
+*.pyc
+*~
+flask/
+*.swo
+*.swp
+
